@@ -13,8 +13,8 @@ A new Flutter package project.
 |![](./screenshots/Screenshot_2020-01-07-16-52-48.png)|![](./screenshots/Screenshot_2020-01-07-16-52-54.png)| ![](./screenshots/Screenshot_2020-01-07-16-53-02.png)   
 |![](./screenshots/Screenshot_2020-01-07-16-53-15.png)|![](./screenshots/Screenshot_2020-01-07-16-53-24.png)||
 
-```
 # Types of Gradient Color class
+```
       1. GradientColor class: In this Gradient color class we use two colors for gradient color, so use only two value for stop otherwise you will face error. 
         eg. Container(
             margin: EdgeInsets.only(top: 10.0),
@@ -51,3 +51,35 @@ A new Flutter package project.
             )),
           ),
 ```
+
+# Colors List (GradientColors)
+
+| # Color Name                        | # Color Name                           |  # Color Name                               |
+| ----------------------------------- | -------------------------------------- | ------------------------------------------- |
+|   blue                              |     pink                               |   orange                                    |
+|   indigo                            |     white                              |   black                                     |
+|   piggyPink                         |     coolBlues                          |   eveningSunshine                           |
+|   darkOcean                         |     gradeGrey                          |   dimBlue                                   |
+|   ver                               |     lightBlue                          |   lightGreen                                |
+|   mango                             |     royalBlue                          |   skyLine                                   |
+|   darkPink                          |     purplePink                         |   purplePink                                |
+|   skyBlue                           |     seaBlue                            |   noontoDusk                                |
+|   red                               |     lightBrown                         |   harmonicEnergy                            |
+|   radish                            |     sunny                              |   teal                                      |
+|   purple                            |     green                              |   yellow                                    |
+|   orangePink                        |     aqua                               |   sunrise                                   |
+|   cherry                            |     mojito                             |   juicyOrange                               |
+|   mirage                            |     violet                             |   lightBlack                                |
+|   facebookMessenger                 |     winter                             |   cloud                                     |
+|   grey                              |     beautifulGreen                     |                                             |
+
+
+
+# Colors List (MoreGradientColors)
+
+| # Color Name                        | # Color Name                           |  # Color Name                               |
+| ----------------------------------- | -------------------------------------- | ------------------------------------------- |
+|   hazel                             |     darkSkyBlue                        |   instagram                                 |
+|   jShine                            |     coolSky                            |   azureLane                                 |
+|   orangePinkBlue                    |     lunada                             |                                             |
+
