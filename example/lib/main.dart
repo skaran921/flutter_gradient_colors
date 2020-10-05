@@ -1,3 +1,4 @@
+import 'package:example/new_colors.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_gradient_colors/flutter_gradient_colors.dart';
@@ -27,6 +28,19 @@ class BodyPart extends StatelessWidget {
     return CupertinoScrollbar(
       child: ListView(
         children: <Widget>[
+          Padding(
+              child: FlatButton(
+                color: Colors.indigo,
+                child: Text(
+                  "New Colors",
+                  style: TextStyle(color: Colors.white),
+                ),
+                onPressed: () {
+                  Navigator.push(context,
+                      MaterialPageRoute(builder: (context) => NewColors()));
+                },
+              ),
+              padding: EdgeInsets.all(16.0)),
           ContainerWidget(
             colorName: "Blue",
             colors: GradientColors.blue,
