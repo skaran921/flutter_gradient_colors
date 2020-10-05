@@ -1,8 +1,49 @@
-# example
+# flutter_gradient_colors
 
 A new Flutter package project.
 
 # Show some :heart: and star the repo to support the project
+
+# New Colors List (GradientColors)
+
+| # Color Name    | # Color Name    | # Color Name     |
+| --------------- | --------------- | ---------------- |
+| warmFlame       | nightFade       | springWarmt      |
+| juicyPeach      | ladyLips        | sunnyMorning     |
+| rainyAshville   | frozenDreams    | winterNeva       |
+| dustyGrass      | temptingAzure   | heavyRain        |
+| amyCrisp        | meanFruit       | lightBluee       |
+| ripeMalinka     | cloudyKnoxville | malibuBeach      |
+| newLife         | trueSunset      | morpheusDen      |
+| rareWind        | wildApple       | plumPlate        |
+| everlastingSky  | happyFisher     | blessingGet      |
+| sharpeyeEagle   | liadogaBottom   | lemonGate        |
+| itmeoBranding   | zeusMiracle     | deepBlue         |
+| happyAcid       | awesomePine     | newYork          |
+| mixedHopes      | flyHigh         | freshMilk        |
+| snowAgain       | februaryInk     | kindSteel        |
+| softGrass       | grownEarly      | sharpBlues       |
+| shadyWater      | dirtyBeauty     | greatWhale       |
+| teenNotebook    | politeRumors    | redSalvation     |
+| nightParty      | skyGlider       | heavenPeach      |
+| purpleDivision  | aquaSplash      | redLove          |
+| cleanMirror     | premiumDark     | cochitiLake      |
+| summerGames     | passionateRed   | mountainRock     |
+| desertHump      | jungleDay       | phoenixStart     |
+| octoberSilence  | farawayRiver    | alchemistLab     |
+| overSun         | marsParty       | eternalConstance |
+| japanBlush      | summerGames     | smilingRain      |
+| cloudy          | bigMango        | healthyWater     |
+| amour           | strongStick     | blackGray        |
+| paloAlto        | happyMemories   | midnightBloom    |
+| crystalline     | partyBliss      | confidentCloud   |
+| leCocktail      | riverCity       | rozenBerry       |
+| childCare       | flyingLemon     | hiddenJaguar     |
+| nega            | seashore        | marbleWall       |
+| cheerfulCaramel | nightSky        | youngGrass       |
+| nega            | seashore        | marbleWall       |
+| colorfulPeach   | gentleCare      | plumBath         |
+| happyUnicorn    | glassWater      |                  |
 
 # Colors List (GradientColors)
 
@@ -32,6 +73,19 @@ A new Flutter package project.
 | hazel          | darkSkyBlue  | instagram    |
 | jShine         | coolSky      | azureLane    |
 | orangePinkBlue | lunada       |              |
+
+# 100 New Colors Added
+
+| # ScreenShots                        | # Screenshot                         | # ScreenShots                        |
+| ------------------------------------ | ------------------------------------ | ------------------------------------ |
+| ![](../screenshots/newColors/1.jpg)  | ![](../screenshots/newColors/2.jpg)  | ![](../screenshots/newColors/3.jpg)  |
+| ![](../screenshots/newColors/4.jpg)  | ![](../screenshots/newColors/5.jpg)  | ![](../screenshots/newColors/6.jpg)  |
+| ![](../screenshots/newColors/7.jpg)  | ![](../screenshots/newColors/8.jpg)  | ![](../screenshots/newColors/9.jpg)  |
+| ![](../screenshots/newColors/10.jpg) | ![](../screenshots/newColors/11.jpg) | ![](../screenshots/newColors/12.jpg) |
+| ![](../screenshots/newColors/13.jpg) | ![](../screenshots/newColors/14.jpg) | ![](../screenshots/newColors/15.jpg) |
+| ![](../screenshots/newColors/16.jpg) | ![](../screenshots/newColors/17.jpg) | ![](../screenshots/newColors/18.jpg) |
+| ![](../screenshots/newColors/19.jpg) | ![](../screenshots/newColors/20.jpg) | ![](../screenshots/newColors/21.jpg) |
+| ![](../screenshots/newColors/22.jpg) |                                      |                                      |
 
 | # ScreenShots                                          | # Screenshot                                           | # ScreenShots                                          |
 | ------------------------------------------------------ | ------------------------------------------------------ | ------------------------------------------------------ |
