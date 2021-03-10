@@ -4,8 +4,7 @@ class ContainerWidget extends StatelessWidget {
   final List<Color> colors;
   final String colorName;
 
-  const ContainerWidget(
-      {Key key, @required this.colors, @required this.colorName})
+  ContainerWidget({Key key, @required this.colors, @required this.colorName})
       : super(key: key);
   @override
   Widget build(BuildContext context) {

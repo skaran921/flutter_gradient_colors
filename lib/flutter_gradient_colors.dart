@@ -1,9 +1,10 @@
 library flutter_gradient_colors;
 
-import 'dart:ui';
+import 'package:flutter/material.dart';
 
 class GradientColors {
   // ************************blue*****************************
+  /// blue GradientColor
   static const List<Color> blue = [
     Color.fromRGBO(31, 179, 237, 1),
     Color.fromRGBO(17, 106, 197, 1)
