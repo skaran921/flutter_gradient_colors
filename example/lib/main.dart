@@ -1,4 +1,4 @@
-import 'package:example/new_colors.dart';
+import './new_colors.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_gradient_colors/flutter_gradient_colors.dart';
@@ -29,8 +29,9 @@ class BodyPart extends StatelessWidget {
       child: ListView(
         children: <Widget>[
           Padding(
-              child: FlatButton(
-                color: Colors.indigo,
+              child: TextButton(
+                style: ButtonStyle(
+                    backgroundColor: MaterialStateProperty.all(Colors.indigo)),
                 child: Text(
                   "New Colors",
                   style: TextStyle(color: Colors.white),

@@ -1,7 +1,8 @@
-import 'package:example/container_widget.dart';
+import './container_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_gradient_colors/flutter_gradient_colors.dart';
 
+// ignore: must_be_immutable
 class NewColors extends StatelessWidget {
   List colorNames = [
     {"name": "WarmFlame", "color": GradientColors.warmFlame},
