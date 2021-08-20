@@ -1,3 +1,5 @@
+import 'package:example/new_colors1.dart';
+
 import './new_colors.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
@@ -39,6 +41,21 @@ class BodyPart extends StatelessWidget {
                 onPressed: () {
                   Navigator.push(context,
                       MaterialPageRoute(builder: (context) => NewColors()));
+                },
+              ),
+              padding: EdgeInsets.all(16.0)),
+          Padding(
+              child: TextButton(
+                style: ButtonStyle(
+                    backgroundColor:
+                        MaterialStateProperty.all(Colors.blue[700])),
+                child: Text(
+                  "New Colors 29-07-2021",
+                  style: TextStyle(color: Colors.white),
+                ),
+                onPressed: () {
+                  Navigator.push(context,
+                      MaterialPageRoute(builder: (context) => NewColors1()));
                 },
               ),
               padding: EdgeInsets.all(16.0)),

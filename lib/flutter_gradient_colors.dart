@@ -616,6 +616,41 @@ class GradientColors {
 
   //********************************************END*************************************************/
 
+  // ************************New Colors 28-07-21*****************************
+  // Calm Darya
+  static const List<Color> calmDarya = [Color(0xFF40e0d0), Color(0xFFff0080)];
+
+  //  ************************* New Color 29-07-21 **********************
+  // ************************* Reference https://digitalsynopsis.com/design/beautiful-color-ui-gradients-backgrounds/  ************
+  static const List<Color> roseanna = [Color(0xFFffafbd), Color(0xFFffc3a0)];
+  static const List<Color> seaBlueNew = [Color(0xFF2193b0), Color(0xFF6dd5ed)];
+  static const List<Color> purpleLove = [Color(0xFFcc2b5e), Color(0xFF753a88)];
+  static const List<Color> piglet = [Color(0xFFee9ca7), Color(0xFFffdde1)];
+  static const List<Color> mauve = [Color(0xFF42275a), Color(0xFF734b6d)];
+  static const List<Color> shadesOfGrey = [
+    Color(0xFFbdc3c7),
+    Color(0xFF2c3e50)
+  ];
+  static const List<Color> lostMemory = [Color(0xFFde6262), Color(0xFFffb88c)];
+  static const List<Color> socialive = [Color(0xFF06beb6), Color(0xFF48b1bf)];
+  static const List<Color> cherryNew = [Color(0xFFeb3349), Color(0xFFf45c43)];
+  static const List<Color> pinky = [Color(0xFFdd5e89), Color(0xFFf7bb97)];
+  static const List<Color> lush = [Color(0xFF56ab2f), Color(0xFFa8e063)];
+  static const List<Color> kashmir = [Color(0xFF614385), Color(0xFF516395)];
+  static const List<Color> tranquil = [Color(0xFFeecda3), Color(0xFFef629f)];
+  static const List<Color> wood = [Color(0xFFeacda3), Color(0xFFd6ae7b)];
+  static const List<Color> greenBeach = [Color(0xFF02aab0), Color(0xFF00cdac)];
+  static const List<Color> frost = [Color(0xFF000428), Color(0xFF004e92)];
+  static const List<Color> almost = [Color(0xFFddd6f3), Color(0xFFfaaca8)];
+  static const List<Color> endlessRiver = [
+    Color(0xFF43cea2),
+    Color(0xFF185a9d)
+  ];
+  static const List<Color> royalBlack = [Color(0xFF141e30), Color(0xFF243b55)];
+  static const List<Color> aubergine = [Color(0xFFaa076b), Color(0xFF61045f)];
+  static const List<Color> orangeCoral = [Color(0xFFff9966), Color(0xFFff5e62)];
+  static const List<Color> scooter = [Color(0xFF36d1dc), Color(0xFF5b86e5)];
+  static const List<Color> bloodyMary = [Color(0xFFff512f), Color(0xFFdd2476)];
 }
 
 class MoreGradientColors {

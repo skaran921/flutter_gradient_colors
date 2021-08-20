@@ -1,11 +1,11 @@
 name: flutter_gradient_colors
-description: A new Flutter package project.
-version: 2.0.0-prerelease-nullsafety
+description: it's provide you more than 100 predefined Gradient Colors.
+version: 2.1.1
 homepage: https://github.com/skaran921/flutter_gradient_colors
 repository: https://github.com/skaran921/flutter_gradient_colors
 
 environment:
-  sdk: '>=2.12.0 <3.0.0'
+  sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
   flutter:
