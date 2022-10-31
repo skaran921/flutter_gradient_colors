@@ -69,7 +69,29 @@ class GradientColors {
     meanFruit,
     lightBluee,
     ripeMalinka,
-    cloudyKnoxville
+    cloudyKnoxville,
+    roseanna,
+    seaBlue,
+    purpleLove,
+    piglet,
+    mauve,
+    shadesOfGrey,
+    lostMemory,
+    socialive,
+    cherry,
+    pinky,
+    lush,
+    kashmir,
+    tranquil,
+    wood,
+    green,
+    frost,
+    almost,
+    endlessRiver,
+    aubergine,
+    orangeCoral,
+    scooter,
+    bloodyMary
   ];
 
   static List<Color> randomColor = colorList[Random().nextInt(randomColor.length - 1)];
@@ -638,7 +660,10 @@ class MoreGradientColors {
 
   // ************************orangePinkBlue*****************************
   static const List<Color> orangePinkTeal = [Color(0xFF40e0d0), Color(0xFFff8c00), Color(0xFFff0080)];
-  // ************************orangePinkBlue*****************************
-
+  // ***************
+// all color list
   static const colorList = [orangePinkTeal, azureLane, coolSky, jShine, instagram, darkSkyBlue, hazel, lunada];
+
+// random more gradient color generator
+  static List<Color> randomColor = colorList[Random().nextInt(randomColor.length - 1)];
 }
